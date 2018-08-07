@@ -1,4 +1,4 @@
-name: jarm_analysis
+name: earm_mutations
 channels:
   - alubbock
   - anaconda
