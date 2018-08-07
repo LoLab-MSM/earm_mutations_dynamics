@@ -9,4 +9,5 @@ dependencies:
 - pathos
 - ipython
 - cython
+- h5py
 
